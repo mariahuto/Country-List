@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Países</string>
+    <string name="confirm">Confirmación</string>
+    <string name="erase">Borrar</string>
+    <string name="confirm_message">"Está seguro que quiere borrar "</string>
+    <string name="choose">"Has escogido "</string>
+</resources>
